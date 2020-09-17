@@ -1,5 +1,5 @@
 # Kinjo Sushi & Grill website and mobile web analysis
-                                                                                                                         Written by Nana
+                         Written by Nana
 
 I would like to analyze the website and mobile web of Kinjo Sushi & Grill restaurant in terms of visual hierarchy, mental models and usability, and mobile responsiveness.
 
