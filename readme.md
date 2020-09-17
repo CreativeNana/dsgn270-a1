@@ -1,7 +1,8 @@
 # The Kinjo Sushi & Grill site analysis #
-                                                                                                          Written by Nana Lee
+Written by Nana Lee
 
 I would like to analyze the mobile and web site of Kinjo Sushi & Grill restaurant based on visual hierarchy, mental models and usability, and mobile responsiveness.
+
 
 ### Introduction
 **My first impression** of the Kinjo Sushi & Grill website's visuals is that they tried to incorporate the restaurant’s brand identity into online channels by utilizing **intense red color** and **the Shojumaru font** similar to the appearance of the restaurant’s building. 
